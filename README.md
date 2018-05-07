@@ -1,2 +1,2 @@
 # first
-this is my first repository and
+This is my first repository and I want to study and evolve.
